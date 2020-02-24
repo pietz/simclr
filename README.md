@@ -19,7 +19,7 @@ Each input image is randomly tranformed twice. The task is to identify the secon
 
 ### CIFAR-10
 
-Linear evalutation using ResNet50, t=0.5, bs=256, 
+Linear evalutation using ResNet50, t=0.5, bs=256. These numbers aren't final yet.
 
 | Source    | Epoch 100 | Epoch 200 | Epoch 300 | Epoch 400 | Epoch 500 |
 | --------- | ---------:| ---------:| ---------:| ---------:| ---------:|
@@ -27,4 +27,3 @@ Linear evalutation using ResNet50, t=0.5, bs=256,
 | This repo | 77.9%     |           |           |           |           |
 
 As shown in Fugure B.6
-
