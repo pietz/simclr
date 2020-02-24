@@ -25,4 +25,5 @@ Linear evalutation using ResNet50, t=0.5, bs=256,
 | --------- | ---------:| ---------:| ---------:|
 | Paper     | 83.9%     | 89.2%     | 91.5%     |
 | This repo | 77.9%     |           |           |
+* As shown in Fugure B.6
 
