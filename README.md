@@ -21,9 +21,9 @@ Each input image is randomly tranformed twice. The task is to identify the secon
 
 Linear evalutation using ResNet50, t=0.5, bs=256, 
 
-| Source    | Epoch 100 | Epoch 200 | Epoch 300 |
-| --------- | ---------:| ---------:| ---------:|
-| Paper     | 83.9%     | 89.2%     | 91.5%     |
-| This repo | 77.9%     |           |           |
-* As shown in Fugure B.6
+| Source    | Epoch 100 | Epoch 200 | Epoch 300 | Epoch 400 | Epoch 500 |
+| --------- | ---------:| ---------:| ---------:| ---------:| ---------:|
+| Paper     | 83.9%     | 89.2%     | 91.5%     | 92.1%     | 93.0%     |
+| This repo | 77.9%     |           |           |           |           |
+As shown in Fugure B.6
 
