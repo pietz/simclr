@@ -10,10 +10,11 @@ SimCLR consists of 4 elements:
 
 Each input image is randomly tranformed twice. The task is to identify the second transformation among a batch of other source images. For efficiency, the other images in the batch are used as negative examples and the loss is calculated based on pairwise cosine similarities.
 
-## TODOs
+## TODOs / Differences to the paper
 
 - [ ] LARS instead of Adam
 - [ ] Same LR schedule
+- [ ] Latent dimension of 128
 
 ## Results
 
