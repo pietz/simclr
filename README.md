@@ -12,8 +12,8 @@ Each input image is randomly tranformed twice. The task is to identify the secon
 
 ## TODOs
 
-- [] LARS instead of Adam
-- [] Same LR schedule
+- [ ] LARS instead of Adam
+- [ ] Same LR schedule
 
 ## Results
 
